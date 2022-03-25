@@ -3,3 +3,5 @@ para analisar no que dá
 isto arquivo
 
 alteração linha 05 no arquivo txt
+
+alteração após importar do HUB
