@@ -6,3 +6,5 @@ commit 1
 commit 5
 
 terceiro teste de git
+
+teste de commite para ver fucionamento ddo git blame
