@@ -4,3 +4,5 @@ linha 01 teste 01
 commit 1
 
 commit 5
+
+terceiro teste de git
