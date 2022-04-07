@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###########
 ###########
 ###########
@@ -7,3 +8,15 @@ commit 100
 ###########
 ###########
 commit 101
+=======
+linha 01 teste 01
+##########
+##########
+commit 1
+
+commit 5
+
+terceiro teste de git
+
+teste de commite para ver fucionamento ddo git blame
+>>>>>>> parent of 832fa1a (commit100)
